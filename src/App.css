@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.input{
+  padding: 7px 10px;
+  width: 400px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.btn{
+  margin-left: 20px;
+  text-align: center;
+  background-color: blue;
+}
+
+.thirdContainer{
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.thirdContainer > * {
+  padding: 7px 10px;
+  color: orange;
+}
+
+
